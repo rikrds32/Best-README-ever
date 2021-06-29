@@ -4,31 +4,42 @@
 
 a
 
-## installation instructions
+## Table of contents
+
+* [installation](#installation)
+* [usage](#usage)
+* [contribution](#contribution)
+* [test](#test)
+* [license](#license)
+* [github](#github)
+* [email](#email)
+
+## installation
 
 a
 
-## usage information
+## usage
 
 a
 
-## contribution guidelines
+## contribution
 
 a
 
-## test instructions
+## test
 
 a
 
-## license 
+
+## license
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-
-## github user name
+## github
 
 a
 
-## e-mail address
+## e-mail
 
 a
   
