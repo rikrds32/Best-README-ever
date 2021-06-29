@@ -72,9 +72,9 @@ ${renderLicenseBadge(data.license)}${renderLicenseLink(data.license)}
 
 ${data.github}
 
-## e-mail
+## questions
 
-${data.email}
+if you have additional questions you can reach me at ${data.email}
   `;
 }
 
