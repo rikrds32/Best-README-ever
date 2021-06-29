@@ -1,10 +1,10 @@
-# a
+# README generator
 ## license
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## description
 
-a
+easy way to generate a README
 
 ## Table of contents
 
@@ -18,26 +18,26 @@ a
 
 ## installation
 
-a
+clone repo and node index.js in terminal
 
 ## usage
 
-a
+easy way to create a professional README
 
 ## contribution
 
-a
+no contributions available
 
 ## test
 
-a
+no testing
 
 
 ## github
 
-a
+rikrds32
 
 ## questions
 
-if you have additional questions you can reach me at a
+if you have additional questions you can reach me at rikrds32@gmail.com
   
