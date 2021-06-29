@@ -41,37 +41,37 @@ function init() {
         {
             type: "input",
             message: questions[2],
-            name: "installation instructions"
+            name: "installation-instructions"
         },
         {
             type: "input",
             message: questions[3],
-            name: "Usage information"
+            name: "usage-information"
         },
         {
             type: "input",
             message: questions[4],
-            name: "Contribution guidelines"
+            name: "contribution-guidelines"
         },
         {
             type: "input",
             message: questions[5],
-            name: "Test instructions"
+            name: "test-instructions"
         },
         {
             type: "input",
             message: questions[6],
-            name: "Choose license for application"
+            name: "choose-license"
         },
         {
             type: "input",
             message: questions[7],
-            name: "Github User Name"
+            name: "github-user-name"
         },
         {
             type: "input",
             message: questions[8],
-            name: "e-mail address"
+            name: "e-mail-address"
         },
     ])
     .then((response) =>
