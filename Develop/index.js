@@ -41,37 +41,38 @@ function init() {
         {
             type: "input",
             message: questions[2],
-            name: "installation-instructions"
+            name: "installation"
         },
         {
             type: "input",
             message: questions[3],
-            name: "usage-information"
+            name: "usage"
         },
         {
             type: "input",
             message: questions[4],
-            name: "contribution-guidelines"
+            name: "contribution"
         },
         {
             type: "input",
             message: questions[5],
-            name: "test-instructions"
+            name: "test"
         },
         {
-            type: "input",
+            type: "list",
             message: questions[6],
-            name: "choose-license"
+            choices: ["MIT","Mozilla","Apache"],
+            name: "license"
         },
         {
             type: "input",
             message: questions[7],
-            name: "github-user-name"
+            name: "github"
         },
         {
             type: "input",
             message: questions[8],
-            name: "e-mail-address"
+            name: "email"
         },
     ])
     .then((response) =>

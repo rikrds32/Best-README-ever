@@ -20,31 +20,31 @@ ${data.description}
 
 ## installation instructions
 
-${data.installation-instructions}
+${data.installation}
 
 ## usage information
 
-${data.usage-information}
+${data.usage}
 
 ## contribution guidelines
 
-${data.contribution-guidelines}
+${data.contribution}
 
 ## test instructions
 
-${data.test-instructions}
+${data.test}
 
 ## choose license 
 
-${data.choose-license}
+${data.license}
 
 ## github user name
 
-${data.github-user-name}
+${data.github}
 
 ## e-mail address
 
-${data.e-mail-address}
+${data.email}
   `;
 }
 
