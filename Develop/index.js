@@ -61,7 +61,7 @@ function init() {
         {
             type: "list",
             message: questions[6],
-            choices: ["MIT","Mozilla","Apache"],
+            choices: ["MIT","Mozilla","Apache","none"],
             name: "license"
         },
         {
@@ -76,7 +76,7 @@ function init() {
         },
     ])
     .then((response) =>
-    writeToFile("README.md", generateMarkdown(response))
+    writeToFile("README.md",generateMarkdown(response))
     );
 }
 

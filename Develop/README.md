@@ -20,9 +20,9 @@ a
 
 a
 
-## choose license 
+## license 
 
-Apache
+
 
 ## github user name
 
